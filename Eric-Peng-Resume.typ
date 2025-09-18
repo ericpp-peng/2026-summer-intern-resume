@@ -51,7 +51,8 @@ Taoyuan, Taiwan\
 == Work Experience
 #chiline()
 *Moxa*   #h(1fr) 06/2021 -- 10/2024 \
-Embedded Software Engineer  - R&D \
+Embedded Software Engineer  - R&D  #h(1fr) 
+Taipei, Taiwan \
 #text(size: 1.0em, style: "italic")[Designed embedded Linux and bare-metal firmware, delivering robust, user-friendly, world-class industrial connectivity solutions]
 
 *Protocol Gateways (based on Linux) - 
