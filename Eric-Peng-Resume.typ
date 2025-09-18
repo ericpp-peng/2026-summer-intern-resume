@@ -37,11 +37,7 @@ Taipei, Taiwan\
 B.S. Electrical Engineering, Division of IC Design #h(1fr) 
 Taoyuan, Taiwan\
 
-// #link("https://github.com/nolliechyTW/Codepath_web102")[*CodePath Intermediate Web Development*] - *React.js* / *APIs* / *Database*
-// #h(1fr) 09/2023 -- 11/2023 \
-// - Project-based exploration of full-stack web development; 15 projects built
-
-
+#v(-0.4em)
 == Skills
 #chiline()
 
@@ -51,10 +47,12 @@ Taoyuan, Taiwan\
 - *Software Development*: GitLab CI/CD, Docker, Jira, Git, SQLite, Makefile, SDLC
 
 
+#v(-0.4em)
 == Work Experience
 #chiline()
 *Moxa*   #h(1fr) 06/2021 -- 10/2024 \
 Embedded Software Engineer  - R&D \
+#text(size: 1.0em, style: "italic")[Designed embedded Linux and bare-metal firmware, delivering robust, user-friendly, world-class industrial connectivity solutions]
 
 *Protocol Gateways (based on Linux) - 
 Achieved USD 3M/year revenue with +10% YoY growth*
@@ -73,6 +71,7 @@ Achieved USD 3M/year revenue with +10% YoY growth*
 
 
 
+#v(-0.4em)
 == Projects
 #chiline()
 
