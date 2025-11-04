@@ -17,19 +17,21 @@
 #set par(justify: true)
 
 #let chiline() = {v(-3pt); line(length: 100%); v(-5pt)}
-
+#align(center)[
 = Po (Eric) Peng
 // Authorized to Work in the US  | Open to Work Remotely and Relocate
-Seattle, WA | (206)-234-2928 | 
-ericpp.peng\@gmail.com |
-#link("https://www.linkedin.com/in/po-peng")[LinkedIn] | #link("https://github.com/ericpp-peng")[Github] | #link("https://po-peng-personal-website.vercel.app/")[Website] 
-
+Seattle, WA #h(0.3em)|#h(0.3em) (206)-234-2928 #h(0.3em)|#h(0.3em) 
+ericpp.peng\@gmail.com #h(0.3em)|#h(0.3em)
+#link("https://www.linkedin.com/in/po-peng")[linkedin.com/in/po-peng] #h(0.3em)|#h(0.3em) #link("https://github.com/ericpp-peng")[github.com/ericpp-peng] #h(0.3em)|#h(0.3em) #link("https://po-peng-personal-website.vercel.app/")[Website] 
+]
 == Education
 #chiline()
 
 *University of Washington* #h(1fr) 09/2025 -- 06/2027 \
 M.S. Electrical and Computer Engineering #h(1fr) 
 Seattle, WA\
+- Coursework: Computer Architecture, Operating System, Distributed Systems, Computer Vision
+#v(-0.4em)
 *National Taiwan University of Science and Technology | GPA 3.92 / 4.3* #h(1fr) 09/2018 -- 08/2020 \
 M.S. Electrical Engineering (Mobile Communication Specialization) #h(1fr) 
 Taipei, Taiwan\
@@ -76,8 +78,7 @@ Achieved USD 3M/year revenue with +10% YoY growth*
 == Projects
 #chiline()
 
-*Analysis of Call Admission Control Schemes for Secondary Users in CRN – M.S. Thesis* #h(1fr) 09/2019 -- 08/2020
-- Proposed a novel access mechanism for cognitive radio networks (CRN), combining spectrum leasing, channel aggregation and hand-offs to improve spectrum utilization, achieving lower user delay and higher throughput
+
 
 *Knowledge Discovery in Database (KDD) Cup Contest* #h(1fr) 02/2019 -- 06/2019 \
 Result: weighted F1-score of 0.6884 on the test set, close to the first-place team’s score of approximately 0.7
@@ -88,7 +89,13 @@ Result: weighted F1-score of 0.6884 on the test set, close to the first-place te
 
 *Intelligent Curtain System – Undergraduate Capstone Project  * #h(1fr) 07/2016 -- 06/2017 \
 Award: first place in the final project exhibition
-- Created an intelligent curtain system using SmartServer and Zigbee sensors with Power Line Communication, enabling automatic adjustment based on illumination levels
-- Designed and implemented a curtain control PCB using D flip-flops, BJTs and RLC components, completing the entire process from circuit design to soldering to ensure seamless system integration
-- Programmed Zigbee firmware to ensure accurate storage of temperature and brightness data in the SmartServer
+- Designed a system integrating Zigbee sensors via Power Line Communication, including a custom curtain control PCB (D flip-flops, BJTs, RLC circuits) for automatic illumination-based adjustment and full hardware–software integration
 
+
+#v(-0.4em)
+== Extracurricular Activities
+#chiline()
+*University of Washington*   #h(1fr) 09/2025 -- 12/2025 \
+FIRST Robotics Mentor  #h(1fr) 
+Seattle, WA \
+- Mentored students in electronics, sensors, wiring, and software framework design, emphasizing PID control systems, Java programming, and computer vision
