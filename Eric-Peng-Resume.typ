@@ -52,7 +52,7 @@ Taoyuan, Taiwan\
 #v(-0.4em)
 == Work Experience
 #chiline()
-*Moxa*   #h(1fr) 06/2021 -- 10/2024 \
+*Moxa* #text(size: 0.9em)[\- Global Leader in Industrial Connectivity (No. 1 in Serial Communication, Top 3 in Industrial Ethernet)]  #h(1fr) 06/2021 -- 10/2024 \
 Embedded Software Engineer  - R&D  #h(1fr) 
 Taipei, Taiwan \
 #text(size: 1.0em, style: "italic")[Designed embedded Linux and bare-metal firmware, delivering robust, user-friendly, world-class industrial connectivity solutions]
