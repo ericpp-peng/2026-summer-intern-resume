@@ -45,7 +45,7 @@ Taoyuan, Taiwan\
 
 - *Programming Languages*: C/C++, Python, Java,  Shell Scripts, JavaScript, Verilog  
 - *Computer Architecture & Systems*: RISC-V, Manycore Architecture, Memory Hierarchy, Network-on-Chip (NoC)
-- *Embedded Systems*: Linux kernel, Zephyr, MCU, Bootloader
+- *Embedded Systems*: Linux kernel, Zephyr, MCU, Bootloader, ESP32
 - *Protocols*: TCP/IP, I2C, UART, LoRa, Ethernet, Zigbee, Modbus, CAN bus
 - *Software Development*: GitLab CI/CD, Docker, Jira, Git, SQLite, Makefile, SDLC
 
@@ -57,9 +57,8 @@ Taoyuan, Taiwan\
 Embedded Software Developer  #h(1fr) 
 Seattle, WA \
 #text(size: 1.0em, style: "italic")[Designed embedded firmware and sensing systems for an autonomous gas leak detection platform in industrial environments]
-- Developed ESP32-based firmware for clamp-on vibration sensing nodes, handling real-time data acquisition and control
-- Implemented reliable long-range LoRa communication with ACK and CRC for industrial deployments
-- Integrated on-node signal processing and ML-based anomaly detection to enable real-time leak localization and alerting
+- Architected an embedded edge-AI sensing system on ESP32, integrating on-node signal processing, ML inference, and LoRa communication, achieving 91% leak detection accuracy in industrial deployments
+
 
 
 *Moxa* #text(size: 0.9em)[\- Global Leader in Industrial Connectivity (No. 1 in Serial Communication, Top 3 in Industrial Ethernet)]  #h(1fr) 06/2021 -- 10/2024 \
