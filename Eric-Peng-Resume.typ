@@ -53,11 +53,7 @@ Taoyuan, Taiwan\
 #v(-0.4em)
 == Work Experience
 #chiline()
-*University of Washington, Sensors, Energy, and Automation Laboratory (SEAL)*  #h(1fr) 01/2026 -- now \
-Embedded Software Developer  #h(1fr) 
-Seattle, WA \
-#text(size: 1.0em, style: "italic")[Designed embedded firmware and sensing systems for an autonomous gas leak detection platform in industrial environments]
-- Architected an embedded edge-AI sensing system on ESP32, integrating on-node signal processing, ML inference, and LoRa communication, achieving 91% leak detection accuracy in industrial deployments
+
 
 
 
@@ -72,6 +68,7 @@ Taipei, Taiwan \
   - Implemented a proprietary CAN protocol module from scratch, covering main communication, backend infrastructure, data exchange, diagnostics features, and all related peripheral software modules
   - Improved the RESTful library for MGate 5000 series via IPC-based design, reducing API development time by 20%
   - Designed the SD card backup module for MGate 5000 series, independently resolving issues via Linux kernel analysis
+  - Established automated testing pipelines with Valgrind and Coverity analysis in GitLab CI/CD
 ]
 #v(-0.5em)
 #pad(left: 1.2em)[
@@ -87,7 +84,11 @@ Taipei, Taiwan \
 == Projects
 #chiline()
 
-
+*University of Washington, Sensors, Energy, and Automation Laboratory (SEAL)*  #h(1fr) 01/2026 -- now \
+Embedded Software Developer  #h(1fr) 
+Seattle, WA \
+#text(size: 1.0em, style: "italic")[Designed embedded firmware and sensing systems for an autonomous gas leak detection platform in industrial environments]
+- Architected an embedded edge-AI sensing system on ESP32, integrating on-device signal processing, ML inference, and LoRa-based wireless communication for industrial gas leak detection
 
 *High-Performance Parallel Computing on RISC-V Manycore Architecture* #h(1fr) 01/2026 -- now \
 - Optimized parallel C++ kernels on a 2000-core RISC-V manycore system, achieving significant speedups through architecture-aware parallelization and latency hiding
